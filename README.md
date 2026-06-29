@@ -145,7 +145,12 @@ lyrics = [
 
 ## 📝 Wajib Baca
 Kalau mau pake buat content, pastikan credit author dan tag akun tt creator, dan masuk kan user github creator di deskripsi video yaahh
+# tiktok :
+# @nullthemanwhocantbemoved
+# @marz_official11
 
+#github :
+# @NulllNotDev
 
 Bisa pake emoji bebas di depan tiap lirik buat estetik! ✨
 
