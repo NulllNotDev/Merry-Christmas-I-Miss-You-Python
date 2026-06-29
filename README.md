@@ -34,14 +34,14 @@ ffmpeg -version
 
 ```bash
 cd C:\Users\ASUS\Downloads\projek
-python lirik.py
+python "Merry Christmass I miss U.py"
 ```
 
 ---
 
 ## 🎵 Cara Ubah Timing Lirik
 
-Buka `lirik.py`, edit bagian ini:
+Buka `Merry Christmass I miss U.py`, edit bagian ini:
 
 ```python
 lyrics = [
