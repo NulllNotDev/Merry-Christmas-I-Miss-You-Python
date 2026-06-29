@@ -1,6 +1,6 @@
 # 🎵 Python Lyric Display — Merry Christmas I Miss You
 
-Bot Python yang nampilin lirik lagu sinkron sama musik di terminal, dengan efek speed ramp di video hasil recordingnya.
+Code Python buat munculin lirik lagu sinkron sama musik di terminal, dengan efek speed ramp di video hasil recordingnya.
 
 ---
 
