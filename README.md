@@ -149,7 +149,7 @@ Kalau mau pake buat content, pastikan credit author dan tag akun tt creator, dan
 # @nullthemanwhocantbemoved
 # @marz_official11
 
-#github :
+# github :
 # @NulllNotDev
 
 Bisa pake emoji bebas di depan tiap lirik buat estetik! ✨
